@@ -15,7 +15,7 @@ function AboutPage(props) {
 
         <p>
           My dream is to work on code for a company and be a strong supporter of
-          their advancement and positive growth in tech and culture.
+          their advancement and positive growth in tech and company culture.
         </p>
 
         <p>
@@ -25,8 +25,10 @@ function AboutPage(props) {
 
         <p>
           My latest project, Covid Corner, is a real-time statistics app for
-          Covid-19 statistics, Symptom Checker, and contains articles from the
-          NY Times. You can check it out{" "}
+          Covid-19 statistics. It contains a United States statistics app that
+          gives current Covid-19 case stats, a testing center locator, symptom
+          checker, news articles, and functionality for logins. You can check it
+          out{" "}
           <a
             href="https://covidcorner.herokuapp.com/"
             target="_blank"
@@ -40,7 +42,8 @@ function AboutPage(props) {
 
         <p>
           When I'm not learning something new chances are I'm paddle-boarding
-          with my dog, planting, painting, or attending a yoga class.
+          with my dog, playing video games, practicing graphic art, or attending
+          a yoga class.
         </p>
       </Content>
     </div>
