@@ -2,9 +2,9 @@ import React from "react";
 
 import Card from "../components/Card";
 
-import covidcorner from "/assets/images/covidcorner.png";
-import profile from "/assets/images/profile.png";
-import scope from "/assets/images/scope.png";
+import covidcorner from "../assets/images/covidcorner.png";
+import profile from "../assets/images/profile.png";
+import scope from "../assets/images/scope.png";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 
