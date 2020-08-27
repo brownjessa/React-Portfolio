@@ -1,3 +1,5 @@
-# React-Portfolio
+# Building a Portfolio Website with React
 
-Wire Frame: https://docs.google.com/presentation/d/1i2JgI4fGhmUdQrCpTWH7ftJl0pkPZw3FipCGO0PNifY/edit#slide=id.g94e6d60ae4_0_0
+This is the final portfolio project for UTA Coding Bootcamp Full Stack Web DEV
+
+if using locally please run npm install to install dependencies.
