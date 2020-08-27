@@ -11,7 +11,17 @@ class App extends React.Component {
         { title: 'About', path: '/about'},
         { title: 'Contact', path: '/contact' }
       ],
-      
+      home: {
+        title: 'Be Determined'
+        subTitle: 'Projects that inspire'
+        text: 'Checkout my projects below'
+      },
+      about: {
+        title: 'About Me'
+      },
+      contact: {
+        title: 'Let\'s Talk'
+      }
     }
 
   }
