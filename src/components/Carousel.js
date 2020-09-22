@@ -34,7 +34,7 @@ class Carousel extends React.Component {
           title: "Scope",
           subTitle: "An astrology project",
           imgSrc: scope,
-          link: "https://github.com/brownjessa/scope",
+          link: "https://scope-g1.herokuapp.com/",
           selected: false,
         },
       ],
